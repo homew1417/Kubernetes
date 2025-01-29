@@ -20,4 +20,14 @@ Ensure you are using an Ubuntu system (preferably Ubuntu 18.04 or later). You sh
    sudo apt install docker.io
    sudo systemctl start docker
    sudo systemctl enable docker
+   
+2. **Install Kubernetes APT repository:**
+3.  **Install kubectl for Kubernetes command-line management:**
+4.  **Install Minikube:**
+5.  **Start Minikube with Docker as the driver:**
+6.  **Verify Minikube and Kubernetes setup:**
+7.  **Access Minikube Dashboard:**
+   ```bash
+   minikube dashboard  
+   
 
