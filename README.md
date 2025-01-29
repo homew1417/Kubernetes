@@ -64,7 +64,7 @@ Ensure you are using an Ubuntu system (preferably Ubuntu 18.04 or later). You sh
       kubectl get pods
 
 7.  **Access Minikube Dashboard:**
-   ```bash
-   minikube dashboard  
+      ```bash
+      minikube dashboard  
    
 
