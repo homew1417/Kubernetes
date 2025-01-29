@@ -48,6 +48,7 @@ Ensure you are using an Ubuntu system (preferably Ubuntu 18.04 or later). You sh
     Use Docker as the driver for Minikube to spin up a local Kubernetes cluster.
     ```bash
       minikube start --driver=docker
+
     If you encounter an error related to root privileges, you can force Minikube to start with the following command:
     ```bash
       minikube start --driver=docker --force
